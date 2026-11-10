@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Sound Map — childhood photographs with hidden environmental sounds." />
+    <title>Sound Map — Childhood Photo Atlas</title>
+    <link rel="stylesheet" href="styles.css?v=34" />
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.1/lib/p5.min.js"></script>
+  </head>
+  <body>
+    <div id="canvas-wrap" aria-label="Interactive childhood photo sound map"></div>
+    <main class="interface" aria-label="Sound Map controls">
+      <div class="title-lockup"><span>SOUND MAP</span></div>
+      <button id="connect-button" class="connect-control" type="button">CONNECT</button>
+      <button id="save-button" class="save-control" type="button" hidden>DOWNLOAD</button>
+      <span id="serial-status" class="sr-only"></span>
+      <span id="sound-status" class="sr-only">Choose a place in the photograph</span>
+    </main>
+  </body>
+  <script src="sketch.js?v=34"></script>
+</html>
