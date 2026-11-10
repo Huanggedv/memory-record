@@ -7,6 +7,12 @@
 
 Childhood photographs become playable records. Each photo is a black-and-white vinyl; clicking the coloured markers (or pressing SPACE) plays a synthesized ambient sound and leaves a trace in the SOUND ORBIT.
 
+## 演示视频 Demo video
+
+[![Memory Record demo — 点击播放 click to play](media/memory-record-demo-poster.jpg)](https://huanggedv.github.io/memory-record/media/memory-record-demo.mp4)
+
+▶ [观看演示 Watch the demo (1:59)](https://huanggedv.github.io/memory-record/media/memory-record-demo.mp4) · [下载 MP4](media/memory-record-demo.mp4) — 连接 Arduino 后的实际运行效果 / the piece running with the Arduino connected.
+
 ## 操作 Controls
 
 | 操作 | 效果 |
